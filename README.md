@@ -67,7 +67,7 @@ Automate detection systems
 ```bash
 > connect --link
 
-LinkedIn: https://linkedin.com/in/YOUR-LINK
+LinkedIn: www.linkedin.com/in/sandip-mandal-7b4680380
 ```
 
 ---
