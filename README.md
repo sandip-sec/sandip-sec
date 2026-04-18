@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">root@system:~# whoami</h1>
 
-<!--
-**sandip-sec/sandip-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+cyber_security_engineer
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+🔐 Offensive Security • ⚡ Automation • 🧠 Tool Building
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ SYSTEM STATUS
+
+```bash
+> initializing profile...
+
+[✔] Name: Sandip Mandal  
+[✔] Role: Cybersecurity Engineer  
+[✔] Focus: Offensive Security & Automation  
+[✔] Status: Building real-world tools  
+```
+
+---
+
+### 🛠️ ACTIVE MODULES
+
+```bash
+> loading tools...
+
+- 🔎 Port Scanner  
+- 🔐 Password Manager  
+- 🧠 Phishing Detection System  
+- ⚡ Automation Scripts  
+```
+
+---
+
+### 🧠 CORE STACK
+
+```bash
+> tech_stack --list
+
+Python
+Networking
+Linux
+Security Tools
+Automation
+```
+
+---
+
+### 🚀 CURRENT OBJECTIVE
+
+```bash
+> mission
+
+Build advanced security tools  
+Simulate real-world attacks  
+Automate detection systems  
+```
+
+---
+
+### 📡 CONNECT
+
+```bash
+> connect --link
+
+LinkedIn: https://linkedin.com/in/YOUR-LINK
+```
+
+---
+
+### ⚠️ PHILOSOPHY
+
+```bash
+while(true) {
+    think_like_attacker();
+    build_like_engineer();
+}
+```
